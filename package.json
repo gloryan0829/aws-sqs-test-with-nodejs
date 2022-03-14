@@ -36,7 +36,8 @@
   "dependencies": {
     "aws-sdk": "^2.1091.0",
     "dotenv": "^16.0.0",
-    "tslib": "~2.3.1"
+    "tslib": "~2.3.1",
+    "uuidv4": "^6.2.12"
   },
   "volta": {
     "node": "16.13.0"
